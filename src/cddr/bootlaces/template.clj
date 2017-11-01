@@ -1,4 +1,4 @@
-(ns adzerk.bootlaces.template
+(ns cddr.bootlaces.template
   (:require [clojure.string :as string]))
 
 (defn pattern-for

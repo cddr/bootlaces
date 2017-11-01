@@ -1,4 +1,4 @@
-(ns adzerk.bootlaces
+(ns cddr.bootlaces
   {:boot/export-tasks true}
   (:require
    [clojure.java.io    :as io]

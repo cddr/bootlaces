@@ -13,9 +13,9 @@
        :ensure-clean   true
        :ensure-tag     (last-commit)
        :ensure-version +version+}
- pom  {:project        'adzerk/bootlaces
+ pom  {:project        'cddr/bootlaces
        :version        +version+
-       :description    "Adzerk's boot configurations for Clojure libraries "
+       :description    "Boot configurations for my personal libraries"
        :url            "https://github.com/adzerk/bootlaces"
        :scm            {:url "https://github.com/adzerk/bootlaces"}
        :license        {"Eclipse Public License" "http://www.eclipse.org/legal/epl-v10.html"}})
